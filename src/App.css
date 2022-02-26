@@ -1,38 +1,108 @@
-.App {
+.fn {
+  margin: 10px;
+  padding: 10px;
+}
+.navbar {
+  background-color: rgb(177, 159, 175);
+  color: rgb(23, 31, 4);
+  margin-top: auto;
+  padding-bottom: 0%;
+  padding-top: 0px;
+}
+.str {
+  background-color: black;
+  color: rgb(233, 243, 245);
+}
+.bus {
+  margin-right: 10px;
+  color: rgb(250, 223, 19);
+}
+
+.crest {
+  height: 5rem;
+  width: 5rem;
+}
+.footers {
+  text-align: center;
+  background-color: brown;
+  color: yellowgreen;
+  margin-bottom: 10px;
+  margin-top: 5px;
+  padding: auto;
+}
+.apstec {
+  text-align: center;
+}
+.advert {
+  border: 8px solid rgb(4, 85, 25);
+  border-bottom-right-radius: 25px;
+  border-top-left-radius: 25px;
+  background-color: cornflowerblue;
+}
+#font {
+  font-family: cursive;
+  color: darkgoldenrod;
+}
+.active {
+  background-color: chartreuse;
+}
+.dario {
+  height: 2000px;
+  width: 500px;
+}
+.links {
+  text-align: right;
+  padding-top: 10px;
+  padding-right: 10px;
+}
+.academics {
+  background-color: #e6e6fa;
+  color: rgb(49, 46, 231);
+}
+.gallery {
+  background-color: rgb(104, 12, 24);
+  color: rgb(238, 244, 245);
+}
+.heading {
+  color: rgb(202, 231, 36);
+  margin-left: 5px;
+}
+#trt {
+  color: black;
+  height: auto;
+  min-width: 200px;
+}
+
+#mem {
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.groups {
+  margin-left: 0px;
 }
+.side, .ilr, .fad, .grt, .restum, .ifet, .tr, .sd, .vcx, .swt, .xzc, .qrt {
+  margin-bottom: 10px;
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+  margin-bottom: 10px;
+
+  border-radius: 10px;
+  filter: drop-shadow(5px 9px 2px rgb(66, 9, 19));
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
+.pen {
+  color: red;
+}
+.icons {
+  margin-bottom: 20px;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  margin-left: 60px;
 }
-
-.App-link {
-  color: #61dafb;
+.roll{
+  margin-right: 25px;
+  margin-bottom: 20px;
+  background-color: darkblue;
+  color: #e6e6fa;
 }
+.picupload{
+  margin-top: 10px;
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
 }

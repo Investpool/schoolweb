@@ -237,7 +237,7 @@ function Home() {
               
                 <img
                   onClick={Dor}
-                  src="images/doreen.PNG"
+                  src="images/cartoon2.jpg"
                   alt="foto"
                   height="80"
                   width="80"
